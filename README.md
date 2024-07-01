@@ -19,12 +19,12 @@ It plots these signals in a series of aligned subplots as follows:
 
 2 - Install dependencies: `pip install -r requirements.txt`
 
-3 - Put your csv file into data folder
+3 - Put your csv file into the folder `SoftwareChallengeBETA`
 
 4 - Run `main.py`: `python main.py`
 
 5 - Enter following informations:
-  - The file path (data/name_of_csv_file.csv)
+  - The file path (name_of_csv_file.csv)
   - First line you want to process (leave blank to process the entire file)
   - Number of lines you want to process (leave blank to process the entire file)
 
